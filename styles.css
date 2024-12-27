@@ -27,11 +27,11 @@
 	object-fit: cover;
 }
 
-.panel p {
+.panel h3 {
 	display: none;
 }
 
-.panel.active p {
+.panel.active h3 {
 	display: block;
 	position: absolute;
 	z-index: 10;
